@@ -8,7 +8,7 @@
 #import "HIUILayoutManager.h"
 #import "HIUILayoutManager_Private.h"
 #import "UIView+HIUILayoutManager.h"
-// https://github.com/Jeykit
+
 typedef NS_ENUM(NSUInteger, HIUIViewStyle) {
     HIUIViewStyleDefault,
     HIUIViewStyleImageView,
